@@ -10,7 +10,6 @@ keywords:
 author: Bureau Ouvert
 language: fr
 timezone:
-jsarr: [test, d3.v4.min]
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
