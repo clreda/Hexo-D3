@@ -1,6 +1,5 @@
 ---
 title: Exemple
-jsarr: ['test']
 ---
 
 Test #2
@@ -14,3 +13,6 @@ Test #2
 <ul id='list2'></ul>
 
 <br>
+
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script type="application/javascript" src="/js/test.js"></script>

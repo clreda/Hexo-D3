@@ -1,6 +1,5 @@
 ---
 title: Exemple
-jsarr: ['test']
 ---
  
 Test #1
@@ -25,3 +24,6 @@ Test #1
 <input type = "button" value = "dessine un truc vert" onclick = "javascript:draw()" />
 
 <br>
+
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script type="application/javascript" src="/js/test.js"></script>
