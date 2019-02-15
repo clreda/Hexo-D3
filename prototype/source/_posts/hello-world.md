@@ -1,6 +1,6 @@
 ---
 title: Exemple
-jsarr: ['test', 'd3.v4.min']
+jsarr: ['test']
 ---
  
 Test #1
